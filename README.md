@@ -1,13 +1,12 @@
-### Hi there 👋
-
 # Kutu.ai
 
-<code><img height="150" src=""></code>
+![indir (4)](https://user-images.githubusercontent.com/114984224/193793653-c1935c9e-4088-4002-8289-a7107a18940a.png)
 
 ## 📚 Learning & Duties
 
-<code><img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqJRtEHDdga3opT10jA5AAHfoFEdcjXHqMg&usqp=CAU"></code>
-<code><img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIKTOc-sGUH3RAqXdB3NHv4qtsv79vGe9TX7311cQVyv0OjdHiwZ08lK_MdCy0Dg20yA&usqp=CAU"></code>
+<code><img height="250" weight="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMqJRtEHDdga3opT10jA5AAHfoFEdcjXHqMg&usqp=CAU"></code>
+<code>![django](https://user-images.githubusercontent.com/114984224/193793887-fdc4ab01-c4d6-4be3-aa78-3f01bd389d23.png) </code>
+
 
 ## 📫 How to Reach Me
 
